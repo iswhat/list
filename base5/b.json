@@ -1,6 +1,6 @@
 //1015--Vanessa-18+
 {
-"wallpaper":"./WallPaper/3.jpg",
+"wallpaper":"https://www.eoeoo.com/bg/bg.php",
 "spider":"./ext/XBPQ/18.jar",
 "sites":[
 {"key":"豆瓣榜单",		"name":"1015",		"type":3,	"api":"./lib/drpy2.min.js",	"ext":"./ext/豆瓣榜单.js"},
