@@ -1,7 +1,6 @@
 {"urls": [
 
 
-        {"url": "http://tbconfig.atwebpages.com/tvb.json","name":"福利配置"},
         {"url": "https://github.uoouo.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json","name":"初秋语福利"},
         {"url": "https://list.eoeoo.com/base/a.json","name":"自建配置1"},
         {"url": "https://list.eoeoo.com/base2/a.json","name":"自建配置2"},
@@ -17,7 +16,7 @@
         {"url":"https://tv.uoouo.com/XYQ.json","name":"香雅情git"},
         {"url":"https://tv.uoouo.com/js.json","name":"道长git"},
         {"url":"https://tv.uoouo.com/cat/js/config_open.json","name":"网络混合git"},
-        {"url":"https://tv.uoouo.com/XBPQ.json","name":"小暴脾气git"},
+        {"url":"http://xhww.fun/小米/DEMO.json","name":"小暴脾气git"},
         {"url":"https://github.uoouo.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json","name":"二哈git"},
         {"url":"https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/tvbox.json","name":"二哈git备份1"},
         {"url":"https://github.uoouo.com/https://raw.githubusercontent.com/iswhat/2ha/main/tvbox.json","name":"二哈git备份2"},
