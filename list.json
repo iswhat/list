@@ -1,8 +1,9 @@
 {
     "urls": 
     [
-        {"url": "https://github.uoouo.com/https://raw.githubusercontent.com/iswhat/tvboxcon/master/XBPQ.json","name":"小米暴脾气接口"},
-        {"url":"https://github.uoouo.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json","name":"Fongmi"},
+        {"url":"http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json","name":"小暴脾气"},
+	{"url":"https://tv.uoouo.com/0821.json","name":"饭太硬修改git"},
+        {"url":"https://tv.uoouo.com/0827.json","name":"FONGMIgit"},
         {"url": "https://list.eoeoo.com/base/a.json","name":"自建配置1"},
         {"url": "https://list.eoeoo.com/base2/a.json","name":"自建配置2"},
 		{"url":"https://list.eoeoo.com/base3/a.json","name":"自建配置3"},
@@ -10,14 +11,14 @@
         {"url": "https://list.eoeoo.com/base4/b.json","name":"自建配置4b"},
         {"url": "https://list.eoeoo.com/base5/a.json","name":"自建配置5"},
         {"url": "https://tb.uoouo.com/Text/dtes.json","name":"配置5git"},
-        {"url":"https://tv.uoouo.com/0821.json","name":"饭太硬修改git"},
+        
         {"url":"https://tv.uoouo.com/0825.json","name":"Panda线路git"},
         {"url":"https://tv.uoouo.com/0826.json","name":"饭太硬备份"},
-        {"url":"https://tv.uoouo.com/0827.json","name":"FONGMIgit"},
+        
         {"url":"https://tv.uoouo.com/XYQ.json","name":"香雅情git"},
         {"url":"https://tv.uoouo.com/js.json","name":"道长git"},
         {"url":"https://tv.uoouo.com/cat/js/config_open.json","name":"网络混合git"},
-        {"url":"https://tv.uoouo.com/XBPQ.json","name":"小暴脾气git"},
+        
         {"url":"https://github.uoouo.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json","name":"二哈git"},
         {"url":"https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/tvbox.json","name":"二哈git备份1"},
         {"url":"https://github.uoouo.com/https://raw.githubusercontent.com/iswhat/2ha/main/tvbox.json","name":"二哈git备份2"},
