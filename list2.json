@@ -1,9 +1,11 @@
 {"urls": [
 
-
-        {"url": "http://tbconfig.atwebpages.com/tvb.json","name":"福利配置"},
-        {"url":"https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/h/h.json","name":"二哈git H"},
-        {"url": "https://github.uoouo.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json","name":"初秋语福利"},
+	
+	
+	
+        {"url":"http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json","name":"小暴脾气"},
+	{"url":"https://tv.uoouo.com/0821.json","name":"饭太硬修改git"},
+        {"url":"https://tv.uoouo.com/0827.json","name":"FONGMIgit"},
         {"url": "https://list.eoeoo.com/base/a.json","name":"自建配置1"},
         {"url": "https://list.eoeoo.com/base2/a.json","name":"自建配置2"},
 	{"url":"https://list.eoeoo.com/base3/a.json","name":"自建配置3"},
@@ -18,7 +20,7 @@
         {"url":"https://tv.uoouo.com/XYQ.json","name":"香雅情git"},
         {"url":"https://tv.uoouo.com/js.json","name":"道长git"},
         {"url":"https://tv.uoouo.com/cat/js/config_open.json","name":"网络混合git"},
-        {"url":"https://tv.uoouo.com/XBPQ.json","name":"小暴脾气git"},
+        {"url":"http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json","name":"小暴脾气"},
         {"url":"https://github.uoouo.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json","name":"二哈git"},
         {"url":"https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/tvbox.json","name":"二哈git备份1"},
         {"url":"https://github.uoouo.com/https://raw.githubusercontent.com/iswhat/2ha/main/tvbox.json","name":"二哈git备份2"},
@@ -38,7 +40,7 @@
 		{"url": "http://www.饭太硬.com/tv","name": "🌟饭太硬🌟"}, 
         {"url": "https://tvkj.top/DC/ysc/tvkj/svip.json","name": "🚀运输车"}, 
         {"url": "http://xn--yety82d.love/","name": "🌟肥猫🌟"}, 
-        {"url": "http://xhww.fun:63/小米/DEMO.json","name": "🌟小米🌟"}, 
+        {"url": "http://xhww.fun/小米/DEMO.json","name": "🌟小米🌟"}, 
         {"url": "http://pandown.pro/tvbox/tvbox.json","name": "🐼巧技🐼"}, 
         {"url": "https://tvbox.cainisi.cf","name": "🌟菜妮丝🌟"}, 
         {"url": "http://52bsj.vip:98/wuai","name": "🌟吾爱🌟"}, 
