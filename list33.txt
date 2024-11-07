@@ -10,6 +10,7 @@
 	{"url":"https://iswhat.github.io/list/base5/b.json","name":"自建配置5b"},
 	{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/li5bo5/TVBox/main/18.json","name":"li5bo518_Git"},
 	{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/sathew/CatVodSpider/main/json/18.json","name":"未知18_Git"},
+	{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/iswhat/xiaoshageTVBox/main/api.json","name":"潇洒哥git"},
 	{"url":"https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/h/h.json","name":"二哈git H"},
 	{"url": "https://tb.uoouo.com/Text/dtes.json","name":"配置5git"},
 	{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/iswhat/tvboxcon/master/0821.json","name":"饭太硬修改git"},
