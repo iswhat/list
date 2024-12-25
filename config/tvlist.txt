@@ -37,28 +37,28 @@ CCTV14,http://221.2.36.34:8888/newlive/live/hls/16/live.m3u8
 CCTV15,http://221.2.36.34:8888/newlive/live/hls/17/live.m3u8
 CCTV16,http://221.2.36.34:8888/newlive/live/hls/18/live.m3u8
 CCTV17,http://221.2.36.34:8888/newlive/live/hls/19/live.m3u8
-CCTV-1,http://60.7.56.33:4000/rtp/239.253.92.83:8012$1920x1080
-CCTV-2,http://sweetown.fun:4000/rtp/239.3.1.60:8084$1920x1080
-CCTV-2,http://60.7.56.33:4000/rtp/239.253.92.190:6065$1920x1080
-CCTV-3,http://223.166.234.215:7777/tsfile/live/0003_1.m3u8
-CCTV-4,http://60.7.56.33:4000/rtp/239.253.93.192:6370$1920x1080
-CCTV-4,http://sweetown.fun:4000/rtp/239.3.1.105:8092$1920x1080
-CCTV-5,http://60.7.56.33:4000/rtp/239.253.92.181:6046$1920x1080
-CCTV-5,http://sweetown.fun:4000/rtp/239.3.1.173:8001$1920x1080
-CCTV-5+,http://60.7.56.33:4000/rtp/239.253.92.82:8013$1920x1080
-CCTV-6,http://60.7.56.33:4000/rtp/239.253.92.193:6058$1920x1080
-CCTV-7,http://183.66.13.82:60033/tsfile/live/0007_1.m3u8
-CCTV-7,http://111.160.17.2:59901/tsfile/live/0001_8.m3u8
-CCTV-8,http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1
-CCTV-9,http://z.b.bkpcp.top/m.php?id=cctv9\
-CCTV-9,http://sweetown.fun:4000/rtp/239.3.1.62:8112$1920x1080
-CCTV-10,http://z.b.bkpcp.top/m.php?id=cctv10\
-CCTV-11,http://sweetown.fun:4000/rtp/239.3.1.152:8120$1920x1080
-CCTV-12,http://60.7.56.33:4000/rtp/239.253.92.197:6062$1920x1080
-CCTV-13,http://sweetown.fun:4000/rtp/239.3.1.124:8128$1920x1080
-CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14\
-CCTV-15,http://sweetown.fun:4000/rtp/239.3.1.153:8136$1920x1080
-CCTV-16,http://z.b.bkpcp.top/m.php?id=cctv16\
+CCTV1,http://60.7.56.33:4000/rtp/239.253.92.83:8012$1920x1080
+CCTV2,http://sweetown.fun:4000/rtp/239.3.1.60:8084$1920x1080
+CCTV2,http://60.7.56.33:4000/rtp/239.253.92.190:6065$1920x1080
+CCTV3,http://223.166.234.215:7777/tsfile/live/0003_1.m3u8
+CCTV4,http://60.7.56.33:4000/rtp/239.253.93.192:6370$1920x1080
+CCTV4,http://sweetown.fun:4000/rtp/239.3.1.105:8092$1920x1080
+CCTV5,http://60.7.56.33:4000/rtp/239.253.92.181:6046$1920x1080
+CCTV5,http://sweetown.fun:4000/rtp/239.3.1.173:8001$1920x1080
+CCTV5+,http://60.7.56.33:4000/rtp/239.253.92.82:8013$1920x1080
+CCTV6,http://60.7.56.33:4000/rtp/239.253.92.193:6058$1920x1080
+CCTV7,http://183.66.13.82:60033/tsfile/live/0007_1.m3u8
+CCTV7,http://111.160.17.2:59901/tsfile/live/0001_8.m3u8
+CCTV8,http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1
+CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9\
+CCTV9,http://sweetown.fun:4000/rtp/239.3.1.62:8112$1920x1080
+CCTV10,http://z.b.bkpcp.top/m.php?id=cctv10\
+CCTV11,http://sweetown.fun:4000/rtp/239.3.1.152:8120$1920x1080
+CCTV12,http://60.7.56.33:4000/rtp/239.253.92.197:6062$1920x1080
+CCTV13,http://sweetown.fun:4000/rtp/239.3.1.124:8128$1920x1080
+CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14\
+CCTV15,http://sweetown.fun:4000/rtp/239.3.1.153:8136$1920x1080
+CCTV16,http://z.b.bkpcp.top/m.php?id=cctv16\
 CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
 四川卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
@@ -1775,6 +1775,24 @@ CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32
 CCT[IPv6],http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8$IPV6
 CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8$IPV6
 CCTV1[IPv6],http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8$IPV6
+CCTV1 综合,http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
+CCTV2 财经,http://[2409:8087:74d9:21::6]:80/270000001128/9900000502/index.m3u8
+CCTV3 综艺,http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8
+CCTV4 中文国际,http://[2409:8087:74d9:21::6]:80/270000001128/9900000503/index.m3u8
+CCTV5 体育,http://[2409:8087:74d9:21::6]:80/270000001128/9900000005/index.m3u8
+CCTV5+ 体育赛事,http://[2409:8087:74d9:21::6]:80/270000001128/9900000507/index.m3u8
+CCTV6 电影,http://[2409:8087:74d9:21::6]:80/270000001128/9900000006/index.m3u8
+CCTV7 国防军事,http://[2409:8087:74d9:21::6]:80/270000001128/9900000504/index.m3u8
+CCTV8 电视剧,http://[2409:8087:74d9:21::6]:80/270000001128/9900000008/index.m3u8
+CCTV9 纪录,http://[2409:8087:74d9:21::6]:80/270000001128/9900000505/index.m3u8
+CCTV10 科教,http://[2409:8087:74d9:21::6]:80/270000001128/9900000506/index.m3u8
+CCTV11 戏曲,http://[2409:8087:74d9:21::6]:80/270000001128/9900000508/index.m3u8
+CCTV12 社会与法,http://[2409:8087:74d9:21::6]:80/270000001128/9900000509/index.m3u8
+CCTV13 新闻,http://[2409:8087:74d9:21::6]:80/270000001128/9900000510/index.m3u8
+CCTV14 少儿,http://[2409:8087:74d9:21::6]:80/270000001128/9900000511/index.m3u8
+CCTV15 音乐,http://[2409:8087:74d9:21::6]:80/270000001128/9900000512/index.m3u8
+CCTV16 奥林匹克,http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
+CCTV17 农业农村,http://[2409:8087:74d9:21::9]:80/270000001128/9900000513/index.m3u8
 CCTV1 综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV2 财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
 CCTV3 综艺,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
