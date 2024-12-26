@@ -11523,6 +11523,7 @@ CCTV15高清,http:///udp/239.76.245.252:1234$雷蒙影视•IPV4
 CCTV16高清,http:///udp/239.76.246.98:1234$雷蒙影视•IPV4『线路1』
 CCTV16高清,http:///udp/239.76.253.98:9000$雷蒙影视•IPV4『线路2』
 CCTV17高清,http:///udp/239.76.245.238:1234$雷蒙影视•IPV4
+CCTV少儿,http://111.74.155.231:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV怀旧剧场,http://111.225.115.74:808/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV放映室,http://epg.112114.xyz/douyu/10011042
 CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
