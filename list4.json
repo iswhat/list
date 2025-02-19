@@ -1,9 +1,11 @@
 {
 	"urls":
 	[
+		{"url":"http://pandown.pro/tvbox/tvbox.json","name":"巧计线路"},
+		{"url":"http://home.jundie.top:81/top98.json","name":"俊佬"},
+		{"url":"http://www.饭太硬.com/tv","name":"饭太硬"},
 		{"url":"https://tv.uoouo.com/0821.json","name":"饭太硬修改git"},
 		{"url":"https://tv.uoouo.com/0827.json","name":"FONGMIgit"},
-		{"url":"http://www.饭太硬.com/tv","name":"饭太硬"},
 		{"url":"https://github.uoouo.com/https://raw.githubusercontent.com/iswhat/xiaoshageTVBox/main/api.json","name":"潇洒哥git"},
 		{"url":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json","name":"潇洒哥弹幕线路"},
 		{"url":"http://www.mpanso.com/小米/DEMO.json","name":"小米线路"},

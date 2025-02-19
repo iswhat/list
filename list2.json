@@ -1,6 +1,8 @@
 {
 	"urls":
 	[
+	{"url":"http://pandown.pro/tvbox/tvbox.json","name":"巧计线路"},
+	{"url":"http://home.jundie.top:81/top98.json","name":"俊佬"},
 	{"url":"https://list.eoeoo.com/base2/a.json","name":"自建配置2"},
 	{"url":"https://list.eoeoo.com/base3/a.json","name":"自建配置3"},
 	{"url":"https://list.eoeoo.com/base4/a.json","name":"自建配置4a"},
