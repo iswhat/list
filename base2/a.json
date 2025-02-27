@@ -24,7 +24,9 @@
 
 
 	"sites":[
-		{"key":"csp_DouBan","name":"🔍豆瓣┃本接口免费-🈲贩卖","type":3,"api":"csp_DouBan","searchable":0,"filterable":1,"changeable":1},
+		{"key":"csp_DouBan","name":"🔍豆瓣影视榜单","type":3,"api":"csp_DouBan","searchable":0,"filterable":1,"changeable":1},
+		{"key":"玩偶gg","name":"👽玩偶","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"http://wogg.xxooo.cf/","filter":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/wogg.json"}},
+		{"key":"木偶","name":"🧸木偶","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"https://mo.666291.xyz/","filter":"./sub/wogg.json"}},
 		{"key":"ConfigCenter","name":"🅿网盘配置中心","type":3,"api":"csp_ConfigCenter","searchable":0,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
 		{"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"金牌","name":"🥇金牌","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},		
@@ -60,7 +62,7 @@
 		{"key":"csp_Kugou","name":"🐶酷狗","type":3,"api":"csp_Kugou","playerType":2,"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}},
 		{"key":"csp_BookTing","name":"📚听书","type":3,"playerType":2,"api":"csp_BookTing","searchable":0,"ext":"https://m.ting275.com","style":{"type":"rect","ratio":1.333}},
 
-		{"key":"玩偶gg","name":"👽玩偶","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"http://wogg.xxooo.cf/","filter":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/wogg.json"}},
+
 		{"key":"片库","name":"🅿片库","type":3,"api":"csp_Qiwei","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"https://www.qwnull.com","commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
 		{"key":"至臻","name":"💯至臻","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"http://www.xhww.net","filter":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/wogg.json"}},
 		{"key":"蜡笔","name":"🖍︎蜡笔","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"http://feimaoai.site","filter":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/wogg.json"}},

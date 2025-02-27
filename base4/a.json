@@ -100,6 +100,7 @@
 
 {"key":"csp_DouDou","name":"豆瓣榜单","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_WoGG","name":"玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"http://127.0.0.1:9978/file/fatcat/token.txt","quarkCookie":"./cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
+{"key":"木偶","name":"🧸木偶","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"https://mo.666291.xyz/","filter":"./sub/wogg.json"}},
 {"key":"金牌","name":"🥇金牌","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Ying","name":"樱花动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysj","name":"异世界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
