@@ -73,10 +73,6 @@
       "name": "网络混合git"
     },
     {
-      "url": "https://github.uoouo.com/https://raw.githubusercontent.com/c120487/00/c775f0554e5ea9f939f5b27afecc733b86572563/05155.txt",
-      "name": "福利配置乱"
-    },
-    {
       "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
       "name": "夜猫少儿"
     },
@@ -99,10 +95,6 @@
     {
       "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
       "name": "夜猫子"
-    },
-    {
-      "url": "https://github.uoouo.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json",
-      "name": "18+1"
     },
     {
       "url": "http://home.jundie.top:81/top98.json",
@@ -129,10 +121,6 @@
       "name": "johnjackson"
     },
     {
-      "url": "https://huhujunxx.neocities.org/AV.json",
-      "name": "Huhujunxx"
-    },
-    {
       "url": "https://github.uoouo.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json",
       "name": "cyao_m线路"
     },
@@ -151,30 +139,6 @@
     {
       "url": "https://raw.liucn.cc/box/m.json",
       "name": "老刘备副线"
-    },
-    {
-      "url": "https://github.uoouo.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json",
-      "name": "飞机场3"
-    },
-    {
-      "url": "https://kjsc0310.github.io/tvy/s2.json",
-      "name": "飞机场12"
-    },
-    {
-      "url": "https://kjsc0310.github.io/tvy/s2.json",
-      "name": "飞机场17"
-    },
-    {
-      "url": "https://github.uoouo.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json",
-      "name": "大人接口"
-    },
-    {
-      "url": "https://kjsc0310.github.io/tvy/s2.json",
-      "name": "大人接口"
-    },
-    {
-      "url": "https://github.uoouo.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json",
-      "name": "老司机8号"
     },
     {
       "url": "https://tv.uoouo.com/js.json",
@@ -215,10 +179,6 @@
     {
       "url": "http://home.jundie.top:81/top98.json",
       "name": "晴园"
-    },
-    {
-      "url": "https://dxawi.github.io/0/0.json",
-      "name": "学习接口"
     },
     {
       "url": "https://github.uoouo.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
