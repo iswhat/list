@@ -1,6 +1,10 @@
 {
   "urls": [
     {
+      "url": "https://list.eoeoo.com/ms.json",
+      "name": "自建混合"
+    },
+    {
       "url": "http://home.jundie.top:81/top98.json",
       "name": "俊佬"
     },
