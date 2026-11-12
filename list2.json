@@ -1,5 +1,9 @@
 {
   "urls": [
+        {
+      "url": "https://list.eoeoo.com/ms.json",
+      "name": "自建混合"
+    },
     {
       "url": "https://list.eoeoo.com/base2/a.json",
       "name": "自建配置2"
