@@ -1,12 +1,12 @@
 { 
 
 "spider":"./jarcf/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
-"wallpaper": "https://www.eoeoo.com/bg/bg.php",
+"wallpaper": "https://list.eoeoo.com/bg/bg.php",
     "lives": [{
             "name": "自有直播tvlist",
             "type": 0,
             "playerType": 1,
-            "url": "https://www.eoeoo.com/config/tvlist.txt",
+            "url": "https://list.eoeoo.com/config/tvlist.txt",
             "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }, {
@@ -14,7 +14,7 @@
             "channels": [{
                     "name": "自有直播tvlist",
                     "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
-                    "urls": ["proxy://do=live&type=txt&ext=https://www.eoeoo.com/config/tvlist.txt"]
+                    "urls": ["proxy://do=live&type=txt&ext=https://list.eoeoo.com/config/tvlist.txt"]
                 }
             ]
         }
